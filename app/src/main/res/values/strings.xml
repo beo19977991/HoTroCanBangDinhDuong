@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HoTroCanBangDinhDuong</string>
+    <string name="chao_mung_ban_den_voi_ung_dung_cua_chung_toi">Chao mung ban den voi ung dung cua chung toi</string>
+    <string name="chon_do_tuoi_cua_ban">Chon do tuoi cua ban</string>
+    <string name="chon_d_gioi_tinh_cua_ban">Chon gioi tinh cua ban</string>
+    <string name="can_nang_hien_tai">Can nang hien tai</string>
+    <string name="kg">kg</string>
+    <string name="can_nang_mong_muon">can nang mong muon</string>
+    <string name="chon_muc_do_hoat_dong_cua_ban">Chon muc do hoat dong cua ban</string>
+    <string name="it_hoat_dong">it hoat dong</string>
+    <string name="_3_5_gio_hoat_dong_nhe">3_5 gio hoat dong nhe</string>
+    <string name="_3_5_gio_hoat_dong_nang">3_5 gio hoat dong nang</string>
+    <string name="_6_8_gio_hoat_dong_nhe">6_8 gio hoat dong nhe</string>
+    <string name="_6_8_gio_hoat_dong_nang">6_8 gio hoat dong nang</string>
+    <string name="back">back</string>
+    <string name="next">next</string>
+    <string name="chieu_cao_hien_tai_cua_ban">Chieu cao hien tai cua ban</string>
+    <string name="cm">cm</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
